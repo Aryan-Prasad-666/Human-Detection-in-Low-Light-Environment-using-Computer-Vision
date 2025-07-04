@@ -36,5 +36,5 @@ def split_dataset(
 split_dataset(
     source_dir='dataset',       
     output_dir='output',       
-    train_ratio=0.8          
+    train_ratio=0.7          
 )
